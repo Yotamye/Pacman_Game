@@ -1,0 +1,236 @@
+F created at: ( 5 , 18 ) , val is: 6
+P --> d to: 6 6
+P --> d to: 6 7
+G #1 --> x
+P --> d to: 6 8
+P --> d to: 6 9
+G #1 --> x
+P --> d to: 6 10
+P --> d to: 6 11
+G #1 --> w
+P --> d to: 6 12
+P --> d to: 6 13
+G #1 --> w
+P --> d to: 6 14
+F --> d
+P --> d to: 6 15
+G #1 --> w
+P --> d to: 6 6
+P --> d to: 6 7
+G #1 --> w
+P --> d to: 6 8
+P --> d to: 6 9
+G #1 --> x
+P --> x to: 7 9
+P --> x to: 8 9
+G #1 --> x
+P --> s to: 8 9
+F --> w
+P --> s to: 8 9
+G #1 --> x
+P --> s to: 8 9
+P --> a to: 8 8
+G #1 --> x
+P --> w to: 7 8
+P --> w to: 6 8
+G #1 --> w
+P --> w to: 5 8
+P --> d to: 5 9
+G #1 --> w
+P --> d to: 5 10
+F --> d
+P --> d to: 5 11
+G #1 --> w
+P --> a to: 5 10
+P --> a to: 5 9
+G #1 --> w
+P --> a to: 5 8
+P --> x to: 6 8
+G #1 --> a
+P --> x to: 7 8
+P --> d to: 7 9
+G #1 --> a
+P --> d to: 7 10
+F --> a
+P --> d to: 7 11
+G #1 --> a
+P --> d to: 7 12
+P --> d to: 7 13
+G #1 --> a
+P --> d to: 7 14
+P --> d to: 7 15
+G #1 --> a
+P --> d to: 7 16
+P --> d to: 7 17
+G #1 --> a
+P --> d to: 7 18
+F --> a
+P --> d to: 7 19
+G #1 --> d
+P --> w to: 6 19
+P --> w to: 5 19
+G #1 --> d
+P --> w to: 4 19
+P --> s to: 4 19
+G #1 --> d
+P --> d to: 4 20
+P --> d to: 4 0
+G #1 --> d
+P --> d to: 4 1
+F --> a
+P --> d to: 4 2
+G #1 --> d
+P --> d to: 4 3
+P --> d to: 4 4
+G #1 --> d
+P --> d to: 4 5
+P --> d to: 4 6
+G #1 --> d
+P --> d to: 4 7
+P --> d to: 4 8
+G #1 --> d
+F disappeared at: (4,17)
+F created at: ( 7 , 10 ) , val is: 5
+P --> d to: 4 9
+F --> a
+P --> d to: 4 10
+G #1 --> d
+P --> d to: 4 11
+P --> d to: 4 12
+G #1 --> d
+P --> d to: 4 13
+P --> x to: 5 13
+G #1 --> d
+P --> x to: 6 13
+P --> x to: 7 13
+G #1 --> a
+P --> x to: 8 13
+F --> a
+P --> s to: 8 13
+G #1 --> a
+P --> s to: 8 13
+P --> a to: 8 12
+G #1 --> a
+P --> a to: 8 11
+P --> a to: 8 10
+G #1 --> a
+P --> a to: 8 9
+P --> a to: 8 8
+G #1 --> a
+P --> a to: 8 7
+F --> a
+P --> a to: 8 6
+G #1 --> a
+P --> a to: 8 5
+P --> a to: 8 4
+G #1 --> a
+P --> a to: 8 3
+P --> a to: 8 2
+G #1 --> a
+P --> a to: 8 1
+P --> s to: 8 1
+G #1 --> a
+P --> s to: 8 1
+F --> a
+P --> d to: 8 2
+G #1 --> x
+P --> d to: 8 3
+P --> d to: 8 4
+G #1 --> x
+P --> d to: 8 5
+P --> d to: 8 6
+G #1 --> x
+P --> d to: 8 7
+P --> d to: 8 8
+G #1 --> x
+P --> a to: 8 7
+F --> a
+P --> w to: 7 7
+G #1 --> w
+P --> w to: 6 7
+P --> w to: 5 7
+G #1 --> w
+P --> w to: 4 7
+P --> d to: 4 8
+G #1 --> w
+P --> d to: 4 9
+P --> a to: 4 8
+G #1 --> w
+P --> a to: 4 7
+F --> a
+P --> a to: 4 6
+G #1 --> a
+P --> d to: 4 7
+P --> s to: 4 7
+G #1 --> a
+P --> x to: 5 7
+P --> x to: 6 7
+G #1 --> a
+P --> x to: 7 7
+P --> x to: 8 7
+G #1 --> a
+P --> s to: 8 7
+F --> d
+P --> d to: 8 8
+G #1 --> a
+P --> d to: 8 9
+P --> d to: 8 10
+G #1 --> a
+P --> d to: 8 11
+P --> d to: 8 12
+G #1 --> a
+P --> d to: 8 13
+P --> d to: 8 14
+G #1 --> a
+P --> d to: 8 15
+F --> d
+P --> d to: 8 16
+G #1 --> a
+P --> d to: 8 17
+P --> d to: 8 18
+G #1 --> a
+P --> d to: 8 19
+P --> s to: 8 19
+G #1 --> a
+P --> w to: 7 19
+P --> w to: 6 19
+G #1 --> d
+P --> w to: 5 19
+F --> d
+F disappeared at (7,7)
+F created at: ( 8 , 10 ) , val is: 7
+P --> w to: 4 19
+G #1 --> a
+P --> s to: 4 19
+P --> a to: 4 18
+G #1 --> d
+P --> a to: 4 17
+P --> a to: 4 16
+G #1 --> d
+P --> a to: 4 15
+P --> a to: 4 14
+G #1 --> d
+P --> a to: 4 13
+F --> d
+P --> a to: 4 12
+G #1 --> d
+P --> a to: 4 11
+P --> x to: 5 11
+G #1 --> d
+P --> d to: 5 12
+P --> d to: 5 13
+G #1 --> d
+P --> d to: 5 14
+P --> d to: 5 15
+G #1 --> d
+P --> d to: 5 16
+F --> d
+P --> d to: 5 17
+G #1 --> d
+P --> d to: 5 18
+P --> d to: 5 19
+G #1 --> d
+P --> x to: 6 19
+P --> a to: 6 18
+G #1 --> d
+P --> a to: 6 17
