@@ -1,6 +1,7 @@
 # Pacman_Game  
 Hello and welcome to Pacman!  
 The game built that you can choose between vary of settings to customize your game experience.  
+I'm challenging you can beat my smart ghosts in the difficult mode ;)  
   
 The Keys:  
 W-Up  
@@ -21,8 +22,5 @@ Winning: Pacman eats all the breadcrumbs.
 Losing: The Ghosts ate you 3 times.  
     
     
-Lets see if you can beat my smart ghosts in the difficult mode ;)  
-  
-  
 oh, and dont forget to choose playing with colors!  
 HAVE FUN!!!  
