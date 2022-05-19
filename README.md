@@ -1,7 +1,7 @@
 # Pacman_Game  
 Hello and welcome to Pacman!  
 The game built that you can choose between vary of settings to customize your game experience.  
-I'm challenging you can beat my smart ghosts in the difficult mode ;)  
+I'm challenging you to beat my smart ghosts in the difficult mode ;)  
   
 The Keys:  
 W-Up  
